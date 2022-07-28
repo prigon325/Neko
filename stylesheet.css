@@ -1,9 +1,23 @@
 @charset "UTF-8";
 
-html{background-color: black;}
+html{
+  background-color: black;
+font-family: sans-serif;
+}
 
-h1{
+h1 {
 color: red;
 font-size: 25px;
 background-color: black;
+}
+
+p {
+color: white;  
+}
+
+li {
+color: White;
+}
+
+a {color: red;
 }
