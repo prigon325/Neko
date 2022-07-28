@@ -1,1 +1,9 @@
-a
+@charset "UTF-8";
+
+html{background-color: black;}
+
+h1{
+color: red;
+font-size: 25px;
+background-color: black;
+}
