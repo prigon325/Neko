@@ -22,3 +22,7 @@ color: White;
 a {
 color: red;
 }
+
+iframe {
+  align-items: center;
+}
